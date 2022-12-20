@@ -1,0 +1,8 @@
+body {
+    @include section-h-w;
+    margin: 0 auto;
+    color: $white;
+    .body-shadow {
+      box-shadow: $box-shadow;
+    }
+  }

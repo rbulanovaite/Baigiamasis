@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700;800;900&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: montserrat;
+  
+    box-sizing: border-box;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+@import "variables";
+@import "mixins";
+@import "body";
+@import "navigation";
+@import "hero-section";
+@import "social-media";
+@import "tabs";
+@import "about";
+@import "white-section";
+@import "pricing";
+@import "reviews";
+@import "contact";
+@import "footer";
+@import "media";
